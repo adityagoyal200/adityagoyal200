@@ -2,7 +2,7 @@
 
 <h3 align="center"> I am currently pursuing a master’s degree in Computer Application (MCA). I am dedicated to problem-solving and handling data structures. I possess expertise in working on web applications with a strong knowledge of front-end web development technologies like ReactJs.</h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/gioLPAqDRZjzYpmuCp/giphy.gif" />
-<br/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagoyal200&label=Profile%20views&color=0e75b6&style=flat" alt="adityagoyal200" /> </p>
 
