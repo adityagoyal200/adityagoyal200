@@ -25,10 +25,13 @@ Hi, I'm Aditya Goyal 👋<br>Master's student in Computer Application | Web Deve
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adityagoyal200&icon=7&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=adityagoyal200&label=Sneek%20peek&color=4&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@adityaGoyal3815) 
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=adityagoyal200&label=Sneek%20peek&color=4&icon=7&pretty=false" />
+</a>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
