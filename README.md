@@ -34,8 +34,6 @@ Hi, I'm Aditya Goyal 👋<br>Master's student in Computer Application | Web Deve
 </a>
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
 
