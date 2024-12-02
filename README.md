@@ -53,10 +53,16 @@ Web Development, Data Structures, AI/ML/DL 🤖
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityagoyal200&theme=radical&show_icons=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityagoyal200&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagoyal200&layout=compact&theme=radical&langs_count=10)
+# Leetcode Stats:
+
+<a href="https://leetcode.com/u/aditya3815/">
+    <img src="https://leetcard.jacoblin.cool/aeroabrar_31?theme=dark&font=Goldman&ext=activityy"></img>
+<a>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aeroabrar-31&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aeroabrar-31&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroabrar-31&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=adityagoyal200&theme=monokai&no-frame=true&margin-w=4)
