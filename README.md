@@ -70,10 +70,12 @@ Web Development, Data Structures, and AI/ML/DL 🤖
 
 ---
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=adityagoyal200-31&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityagoyal200-31&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagoyal200-31&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityagoyal200&theme=radical&show_icons=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityagoyal200&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagoyal200&layout=compact&theme=radical&langs_count=10)
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=adityagoyal200&theme=monokai&no-frame=true&margin-w=4)
 
 ---
 
