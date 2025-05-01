@@ -66,12 +66,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aditya3815?theme=dark&font=Goldman&ext=activity)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityagoyal200&theme=radical)  
 
----
-
-## 🏆 Achievements  
-- 🥇 **Google Hackathon 2023 Finalist**  
-- � **500+ LeetCode Problems Solved**  
-- � **Contributed to 10+ Open Source Projects**  
 
 ---
 
