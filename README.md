@@ -131,8 +131,11 @@ currently_learning:
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/aditya3815?theme=dark&font=Nunito&ext=contest)](https://leetcode.com/aditya3815)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]([https://hackerrank.com](https://www.hackerrank.com/profile/goyaladitya3815))
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)]([https://geeksforgeeks.org](https://www.geeksforgeeks.org/user/user_o1q5/))
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/goyaladitya3815)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/user_o1q5/)
+
 
 </div>
 
