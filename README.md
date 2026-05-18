@@ -19,10 +19,8 @@
 
 ```yaml
 name: Aditya Goyal
-located_in: Chandigarh, India
-current_job: Full-Stack Developer & AI Engineer
-education: 
-  - "Master's in Computer Applications"
+located_in: Pune, India
+current_job: MTS
 
 fields_of_interests:
   - "Artificial Intelligence & Machine Learning"
